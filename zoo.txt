@@ -1,1 +1,8 @@
 visual encodings
+protovis
+horizon graphs
+q-q plots
+parallel coordinates
+cartogram
+dendrogram
+adjacency diagram
