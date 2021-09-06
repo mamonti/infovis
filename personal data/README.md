@@ -1,4 +1,9 @@
 # Visualizando datos personales
 
-* Juegos jugados en la consola 3ds
-* [GoogleDoc](https://docs.google.com/document/d/1SIwhqwyHLQlD2Spix-xYmxjU9o6-5hmOXwh1pjM1-UA/edit)
+## Tema
+Juegos jugados en la consola 3ds.
+
+## Datos
+Los datos los saque de una aplicación de la consola 3ds llamada Activity Log, de la cual tome el nombre del juego, tiempo jugado, número de veces jugado, tiempo promedio jugado y la fecha en la que fue jugado por primera y última vez. Después le agregue la compañía del juego y el género. La razón por la que solo estoy analizando los juegos de está consola, es porque en otras no conseguía la misma cantidad de atributos (perdía al menos 4).
+
+[data.tsv](data.tsv)
